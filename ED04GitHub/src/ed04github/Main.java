@@ -8,6 +8,7 @@ package ed04github;
 /**
  * Práctica para ED04 sobre optimización y documentación.
  * Agregamos esta línea y lo volvemos a subir a GitHub.
+ * Agregamos esta otra línea desde GitHub y comprobar que también se modifica en Netbeans.
  * @author MR
  */
 
